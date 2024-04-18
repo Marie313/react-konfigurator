@@ -1,0 +1,67 @@
+{
+    "cars":[
+        {
+            "id": 1,
+            "name": "EQE Limousine",
+            "preis": "ab 104.755,70 €",
+            "antriebskonzept": "Elektrisch",
+            "fahrzeugtyp": "limousine",
+            "type": "AMG",
+            "pic": "/images/amgEQELimousine.jpg"
+        },
+        {
+            "id": 2,
+            "name": "GLC Coupe",
+            "preis": "ab 62.549,00 €",
+            "antriebskonzept": "Hybride verfügbar",
+            "fahrzeugtyp": "SUV",
+            "type": "none",
+            "pic": "/images/GLCCoupe.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Mercedes-Maybach S-Klasse",
+            "preis": "ab 182.070,00 €",
+            "antriebskonzept": "Hybride verfügbar",
+            "fahrzeugtyp": "Limousine",
+            "type": "Maybach",
+            "pic": "/images/maybachSKlasse.jpg"
+        },
+        {
+            "id": 4,
+            "name": "V-Klasse",
+            "preis": "",
+            "antriebskonzept": "old",
+            "fahrzeugtyp": "Van",
+            "type": "none",
+            "pic": "/images/VKlasse.jpg"
+        },
+        {
+            "id": 5,
+            "name": "G-Klasse",
+            "preis": "ab 122.808,00 €",
+            "antriebskonzept": "old",
+            "fahrzeugtyp": "SUV",
+            "type": "new",
+            "pic":"/images/GKlasseNew.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Mercedes-Maybach EQS SUV",
+            "preis": "ab 200.634,00 €",
+            "antriebskonzept": "Elektrisch",
+            "fahrzeugtyp": "SUV",
+            "type":"Maybach",
+            "pic":"/images/maybachEQS_SUV.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Mercedes-Maybach GLS",
+            "preis": "ab 190.031,10 €",
+            "antriebskonzept": "old",
+            "fahrzeugtyp": "SUV",
+            "type":"Maybach",
+            "pic":"/images/maybachGLS.jpg"
+        }
+    ]
+}

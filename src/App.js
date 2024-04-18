@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 
 function App() {
   
-  const title= "Konfig";
+  const title= "Unsere Modelle.";
 
   return (
     <div className="App">
